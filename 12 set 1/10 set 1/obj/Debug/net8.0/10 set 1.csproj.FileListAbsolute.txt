@@ -1,0 +1,14 @@
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\bin\Debug\net8.0\10 set 1.exe
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\bin\Debug\net8.0\10 set 1.deps.json
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\bin\Debug\net8.0\10 set 1.runtimeconfig.json
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\bin\Debug\net8.0\10 set 1.dll
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\bin\Debug\net8.0\10 set 1.pdb
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\obj\Debug\net8.0\10 set 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\obj\Debug\net8.0\10 set 1.AssemblyInfoInputs.cache
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\obj\Debug\net8.0\10 set 1.AssemblyInfo.cs
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\obj\Debug\net8.0\10 set 1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\obj\Debug\net8.0\10 set 1.dll
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\obj\Debug\net8.0\refint\10 set 1.dll
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\obj\Debug\net8.0\10 set 1.pdb
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\obj\Debug\net8.0\10 set 1.genruntimeconfig.cache
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set probleme 1\10 set 1\obj\Debug\net8.0\ref\10 set 1.dll
