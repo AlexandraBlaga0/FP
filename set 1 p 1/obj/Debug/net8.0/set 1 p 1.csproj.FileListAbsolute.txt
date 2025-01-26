@@ -1,0 +1,14 @@
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\obj\Debug\net8.0\set 1 p 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\obj\Debug\net8.0\set 1 p 1.AssemblyInfoInputs.cache
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\obj\Debug\net8.0\set 1 p 1.AssemblyInfo.cs
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\obj\Debug\net8.0\set 1 p 1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\bin\Debug\net8.0\set 1 p 1.exe
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\bin\Debug\net8.0\set 1 p 1.deps.json
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\bin\Debug\net8.0\set 1 p 1.runtimeconfig.json
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\bin\Debug\net8.0\set 1 p 1.dll
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\bin\Debug\net8.0\set 1 p 1.pdb
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\obj\Debug\net8.0\set 1 p 1.dll
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\obj\Debug\net8.0\refint\set 1 p 1.dll
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\obj\Debug\net8.0\set 1 p 1.pdb
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\obj\Debug\net8.0\set 1 p 1.genruntimeconfig.cache
+C:\Users\Alexandra\OneDrive\Documents\fundamentele programarii\set 1 in functii\set 1 p 1\obj\Debug\net8.0\ref\set 1 p 1.dll
